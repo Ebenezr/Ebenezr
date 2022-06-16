@@ -1,5 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebenezr&show_icons=true&theme=codeSTACKr)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ebenezr&theme=dark)](https://git.io/streak-stats)
+![](https://raw.githubusercontent.com/Ebenezr/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 <!--
 
 **Ebenezr/Ebenezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
