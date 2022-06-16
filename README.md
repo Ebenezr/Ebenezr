@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/Ebenezr/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebenezr&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebenezr&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
