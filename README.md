@@ -1,10 +1,10 @@
 <!-- <h3 align="center">Hey there, I'm Bukosia Ebenezar <h3> -->
 
 <p align="center">
-  <a href="https://twitter.com/Sir_Bukosia"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/layersony?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://twitter.com/Sir_Bukosia"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Sir_Bukosia?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Ebenezr"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Ebenezr?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-
 </p>
+
 ## 🔥 My contribution streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ebenezr&theme=dark)](https://git.io/streak-stats)<br>
 ## 📈 Github Stats 
