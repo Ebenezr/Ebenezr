@@ -1,5 +1,5 @@
 <!-- <h3 align="center">Hey there, I'm Bukosia Ebenezar <h3> -->
-<p align="center"><img width="60%" height="auto" border-radius="50%" src="./ebbe.png" height="175px"/></p>
+<p align="center"><img width="60%" height="auto" style="border-radius:50%" src="./ebbe.png" height="175px"/></p>
 
 <p align="center">
   <a href="https://twitter.com/Sir_Bukosia"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Sir_Bukosia?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
@@ -38,9 +38,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>  
+</div>
+  
 <!--
-
 **Ebenezr/Ebenezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
