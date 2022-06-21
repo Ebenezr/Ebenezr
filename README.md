@@ -20,7 +20,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebenezr&show_icons=true&theme=codeSTACKr)<br>
 ## 👨‍💻 Languages and Tools:
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ebenezr Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebenezr&langs_count=10&layout=compact&theme=dark#" /></a>
-## View projects
+## Go to Repos 
   
 <p align="left">
   <a href="https://github.com/Ebenezr?tab=repositories"><img alt="Repositories" title="Repositories" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
