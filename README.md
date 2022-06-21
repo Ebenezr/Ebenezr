@@ -1,5 +1,5 @@
 <!-- <h3 align="center">Hey there, I'm Bukosia Ebenezar <h3> -->
-<a href="#" align="center"><img width="60%" height="auto" src="./ebbe.png" height="175px"/></a>
+<p align="center"><img width="60%" height="auto" src="./ebbe.png" height="175px"/></p>
 
 <p align="center">
   <a href="https://twitter.com/Sir_Bukosia"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Sir_Bukosia?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
