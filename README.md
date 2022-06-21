@@ -1,6 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebenezr&show_icons=true&theme=codeSTACKr)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ebenezr&theme=dark)](https://git.io/streak-stats)
 ![](https://raw.githubusercontent.com/Ebenezr/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ebenezr Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebenezr&langs_count=10&layout=compact#" /></a>
 
 <!--
 
