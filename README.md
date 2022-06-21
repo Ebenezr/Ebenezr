@@ -20,7 +20,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebenezr&show_icons=true&theme=codeSTACKr)<br>
 ## 👨‍💻 Languages and Tools:
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ebenezr Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebenezr&langs_count=10&layout=compact&theme=dark#" /></a>
-
+## View projects
+  
+<p align="left">
+  <a href="https://github.com/Ebenezr?tab=repositories"><img alt="Repositories" title="Repositories" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+</p>
 ##
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
