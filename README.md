@@ -1,11 +1,13 @@
 <!-- <h3 align="center">Hey there, I'm Bukosia Ebenezar <h3> -->
-<p align="center"><img width="60%" height="auto" src="./ebbe.png" height="175px"/></p>
+<p align="center"><img width="60%" height="auto" border-radius="50%" src="./ebbe.png" height="175px"/></p>
 
 <p align="center">
   <a href="https://twitter.com/Sir_Bukosia"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Sir_Bukosia?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Ebenezr"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Ebenezr?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
+
 <h3 align="center">Hey there!<h3>
+  
 ## 🔥 My contribution streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ebenezr&theme=dark)](https://git.io/streak-stats)<br>
 ## 🙋‍♂️ Connect with me:
