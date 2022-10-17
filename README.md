@@ -24,10 +24,10 @@
   
 
 <p align="left">
-  <a href="https://github.com/Ebenezr/clock-me-front-end"><img alt="Repositories" title="Repositories" />Clock Me App</a>
+  <a href="https://github.com/Ebenezr/clock-me-front-end"><img  title="Projects" />Clock Me App</a>
 </p>
 <p align="left">
-  <a href="https://github.com/Ebenezr/health-soft"><img alt="Repositories" title="Repositories" />Health Soft System</a>
+  <a href="https://github.com/Ebenezr/health-soft"><img  title="Projects" />Health Soft System</a>
 </p>
   <p align="left">
   <a href="https://github.com/Ebenezr?tab=repositories"><img alt="Repositories" title="Repositories" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
