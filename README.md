@@ -35,7 +35,9 @@
   <p align="left">
   <a href="https://github.com/Ebenezr?tab=repositories"><img alt="Repositories" title="Repositories" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
+  ---
 :hammer_and_wrench: Languages and Tools :
+  ---
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -71,7 +73,7 @@
           
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> -->
 </div>
-  
+  ---
   [![Ebenezr's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ebenezr&theme=react-dark)](https://github.com/Ebenezr/github-readme-activity-graph)
 <!--
 **Ebenezr/Ebenezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
