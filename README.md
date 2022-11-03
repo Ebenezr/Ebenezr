@@ -73,8 +73,10 @@
           
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> -->
 </div>
-  </br>
-  [![Ebenezr's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ebenezr&theme=react-dark)](https://github.com/Ebenezr/github-readme-activity-graph)
+</br>
+[![Ebenezr's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ebenezr&theme=react-dark)](https://github.com/Ebenezr/github-readme-activity-graph)
+  
+  
 <!--
 **Ebenezr/Ebenezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
